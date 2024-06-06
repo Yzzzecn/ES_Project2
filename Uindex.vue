@@ -1,3 +1,4 @@
+<!--changefor R11-->
 <template>
   <div id="index" ref="appRef">
     <div class="bg">
