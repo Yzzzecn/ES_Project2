@@ -2,7 +2,7 @@ import Vue from "vue";
 import VueRouter from "vue-router";
 // changeforR11
 Vue.use(VueRouter);
-
+//change for R12
 const routes = [
   {
     path: "/login",

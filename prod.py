@@ -1,5 +1,7 @@
 """ Production Settings """
 # change for B2
+# change for B3
+
 import os
 import dj_database_url
 from .dev import *
