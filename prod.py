@@ -1,5 +1,5 @@
 """ Production Settings """
-
+# change for B2
 import os
 import dj_database_url
 from .dev import *
